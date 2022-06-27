@@ -1,4 +1,0 @@
-<a xmlns:xacro="http://www.ros.org/wiki/xacro">
-	<xacro:macro name="inner">${undefined}</xacro:macro>
-	<xacro:macro name="outer"><xacro:inner/></xacro:macro>
-</a>
